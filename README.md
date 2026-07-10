@@ -16,7 +16,7 @@ A simple responsive photography landing page built using HTML and CSS.
 
 ## Screenshot
 
-![Project screenshot](photography.png)
+![Project screenshot](phtography.png)
 
 
 ## How to Run
